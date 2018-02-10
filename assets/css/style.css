@@ -167,6 +167,11 @@ hr {
 	float: left;
 }
 
+#crystal-link, #hangman-link {
+	text-decoration: none;
+	color: white;
+}
+
 /*Contact CSS code*/
 
 .form-label {
