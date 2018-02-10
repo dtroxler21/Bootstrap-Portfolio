@@ -167,7 +167,7 @@ hr {
 	float: left;
 }
 
-#crystal-link, #hangman-link {
+#crystal-link, #hangman-link, #trivia-link {
 	text-decoration: none;
 	color: white;
 }
