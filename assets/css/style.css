@@ -123,7 +123,7 @@ hr {
 	margin-left: 110px;
 }
 
-#img-rock {
+#img-train {
 	margin-left: 40px;
 }
 
@@ -147,7 +147,7 @@ hr {
 	margin-top: 350px;
 }
 
-#banner-rock {
+#banner-train {
 	margin-top: 565px;
 	margin-left: 45px;
 }
@@ -167,7 +167,7 @@ hr {
 	float: left;
 }
 
-#crystal-link, #hangman-link, #trivia-link, #gif-link {
+#crystal-link, #hangman-link, #trivia-link, #gif-link, #train-link {
 	text-decoration: none;
 	color: white;
 }
